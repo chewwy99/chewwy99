@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chewwy99
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning Blazor
+- 🌱 I’m currently learning Razor
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
